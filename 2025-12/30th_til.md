@@ -1,5 +1,5 @@
 # 🗓️ 25.12.30 (Tue)
-# 📘 Week02 Practice Assignment
+# 📘 Week02 Assignment
 
 2주차 실습 과제 진행 현황.
 
